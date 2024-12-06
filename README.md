@@ -19,10 +19,10 @@ Process
     - Collected X-ray images for training and testing.
     - Implemented data augmentation to simulate real-world conditions.
       
-Model Training:
+2. Model Training:
     - Trained using CNNs to classify images into pneumonia-positive and pneumonia-negative categories.
 
-Evaluation:
+3. Evaluation:
     - Assessed performance on validation data.
     - Optimized using field data for robustness.
 
