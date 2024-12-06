@@ -5,6 +5,7 @@ This project leverages AI models to detect pneumonia from X-ray images, focusing
 Overview
     What is Pneumonia? 
     A lung infection causing symptoms like cough and difficulty breathing, often diagnosed using X-ray imaging.
+    
     Goal: 
     Develop a machine learning model to classify X-ray images as pneumonia-positive or negative with high accuracy.
 
